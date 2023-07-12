@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**GalvanGabe/GalvanGabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm currently not working in the area yet.
+- 🌱 I’m currently learning HTML, CSS, JS, ReactJS and NodeJS.
+- 👯 I'm looking to collaborate on web projects (frontend or backend).
+- 🤔 I'm looking for help with any javascript features/technologies I can add to my future projects.
+- 💬 Ask me about project ideas or suggestions.
+- 📫 How to reach me: e-mail galvan.gabriel@hotmail.com
 
-Here are some ideas to get you started:
+### Olá 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 No momento ainda não estou trabalhando na área.
+- 🌱 No momento estou aprendendo HTML, CSS, JS, ReactJS e NodeJS.
+- 👯 Estou procurando colaborar em projetos web (frontend ou backend).
+- 🤔 Estou procurando ajuda com quaisquer recursos/tecnologias de javascript que eu possa adicionar aos meus projetos futuros.
+- 💬 Pergunte-me sobre idéias de projetos ou sugestões.
+- 📫 Como chegar até mim: e-mail galvan.gabriel@hotmail.com
