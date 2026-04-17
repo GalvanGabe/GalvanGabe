@@ -59,3 +59,7 @@ https://github.com/GalvanGabe/desafio-cybersecurity-bootcamp-dio-riachuelo
 
 🔹 Introduction to Cybersecurity – Cisco Networking Academy  
 🔗 https://www.credly.com/badges/6f042d13-9f82-4bb0-b224-424835753c43/linked_in_profile
+
+🔹 AWS Cloud Fundamentals - TIDWIT
+🔗 https://awstreinabrasil.ontidwit.com/badge?id=cbece26e-4ae8-435d-8915-d8e9011f6d7b
+
